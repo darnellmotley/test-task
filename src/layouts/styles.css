@@ -1,0 +1,16 @@
+.sidebar {
+  height: calc(100vh - 56px);
+  padding: 24px;
+  box-shadow: -1px -2px 17px 3px rgba(0, 0, 0, 0.16);
+  -webkit-box-shadow: -1px -2px 17px 3px rgba(0, 0, 0, 0.16);
+  -moz-box-shadow: -1px -2px 17px 3px rgba(0, 0, 0, 0.16);
+}
+.item-title {
+  text-align: center;
+  margin-top: 30px;
+}
+.item-subtitle {
+  color: lightgray;
+  text-align: center;
+  margin-bottom: 0;
+}
